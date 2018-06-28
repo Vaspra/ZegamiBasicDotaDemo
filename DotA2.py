@@ -27,7 +27,7 @@ BACKGROUNDS_DIRECTORY = IMAGES_DIRECTORY + 'Backgrounds/'
 
 
 # Define the table filename
-TABLE_FILENAME = 'DotA2Table.tsv'
+TABLE_FILENAME = 'DotA2Table.xlsx'
 
 
 # Define the data specific function
